@@ -1,0 +1,3 @@
+Mi IP Publica es : 186.22.13.8
+Mi usuario es : liveuser
+El hash de mi usuario es :  (grep -w liveuser /etc/shadow | cut -d: -f2)
